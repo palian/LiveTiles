@@ -1,0 +1,97 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "PALIANTech Ent.",
+    "longName": "Live Tiles",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[A-Za-z0-9 %:.]",
+                "file": "fonts/Segoe-ui.ttf",
+                "name": "FONT_SEGOE_NORMAL_40",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9 %:.]",
+                "file": "fonts/Segoe-ui.ttf",
+                "name": "FONT_SEGOE_NORMAL_52",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Za-z0-9 %:.]",
+                "file": "fonts/Segoe-ui.ttf",
+                "name": "FONT_SEGOE_NORMAL_30",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Za-z0-9 %:.]",
+                "file": "fonts/Segoe-ui.ttf",
+                "name": "FONT_SEGOE_NORMAL_45",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[0-9 %:.]",
+                "file": "fonts/Segoe-ui.ttf",
+                "name": "FONT_SEGOE_NORMAL_50",
+                "type": "font"
+            },
+            {
+                "file": "images/Watch-32.png",
+                "name": "IMAGE_WATCH",
+                "type": "png"
+            },
+            {
+                "file": "images/BattPartial.png",
+                "name": "IMAGE_BATNCH",
+                "type": "png"
+            },
+            {
+                "file": "images/BattCharge.png",
+                "name": "IMAGE_BATCH",
+                "type": "png"
+            },
+            {
+                "file": "images/BTNC55.png",
+                "name": "IMAGE_BTNC55",
+                "type": "png"
+            },
+            {
+                "file": "images/BTC55.png",
+                "name": "IMAGE_BTC55",
+                "type": "png"
+            },
+            {
+                "characterRegex": "[0-9 :.]",
+                "file": "fonts/HelLight2.ttf",
+                "name": "FONT_HELVETICA_LIGHT_50",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Za-z0-9% :.]",
+                "file": "fonts/HelLight2.ttf",
+                "name": "FONT_HELVETICA_LIGHT_45",
+                "type": "font"
+            },
+            {
+                "characterRegex": "[A-Za-z0-9% :.]",
+                "file": "fonts/HelLight2.ttf",
+                "name": "FONT_HELVETICA_LIGHT_30",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "Live Tiles",
+    "targetPlatforms": [
+        "basalt"
+    ],
+    "uuid": "5bb1b762-ed0a-42f5-8ac0-de98dd435d21",
+    "versionCode": 1,
+    "versionLabel": "1.4",
+    "watchapp": {
+        "watchface": true
+    }
+}
